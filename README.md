@@ -1,2 +1,2 @@
-# childhood_wp
+# Childhood - Wordpress Web Site
 CMS Wordpress + Layout
