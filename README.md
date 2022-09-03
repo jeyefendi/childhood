@@ -1,2 +1,4 @@
 # Childhood - Wordpress Web Site
-CMS Wordpress + Layout
+><b>Wordpress CMS<br>HTML <br>CSS<br>jQuery</b>
+# [LIVE DEMO](https://jeyefendi.github.io/childhood/)
+![COVER](./COVER.jpg)
